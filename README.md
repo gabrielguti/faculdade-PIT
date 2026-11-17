@@ -79,13 +79,6 @@ Os 8 negócios em `content/businesses/` (como `padaria-pao-da-ilha` e `salao-mar
 
 **Números de WhatsApp dos dados de demonstração:** todos os negócios fictícios usam o número do autor do projeto, apenas para os cenários de teste. Assim, os botões de WhatsApp podem ser testados de verdade sem contatar terceiros. Em produção, cada negócio informa o seu próprio número no cadastro.
 
-## Documentação
-
-- [Documentação do projeto](docs/DOCUMENTACAO.md)
-- [Plano de testes](docs/PLANO_DE_TESTES.md)
-- [Laudo de qualidade](docs/LAUDO_DE_QUALIDADE.md)
-- [Roteiro do vídeo](docs/ROTEIRO_VIDEO.md)
-
 ## Licença
 
 MIT

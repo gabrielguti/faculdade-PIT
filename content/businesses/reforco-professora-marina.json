@@ -1,0 +1,29 @@
+{
+  "slug": "reforco-professora-marina",
+  "name": "Reforço da Professora Marina",
+  "category": "Educação",
+  "description": "Aulas de reforço de matemática e português para o ensino fundamental.",
+  "services": [
+    {
+      "name": "Aula individual (1h)",
+      "price": 60
+    },
+    {
+      "name": "Grupo de até 4 alunos (1h)",
+      "price": 35,
+      "description": "Por aluno"
+    },
+    {
+      "name": "Pacote mensal",
+      "description": "Valor combinado pelo WhatsApp"
+    }
+  ],
+  "hours": "Seg a Sex 14h às 19h",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Transferência"
+  ],
+  "publicationConsent": true
+}

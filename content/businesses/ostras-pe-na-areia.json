@@ -1,0 +1,33 @@
+{
+  "slug": "ostras-pe-na-areia",
+  "name": "Ostras Pé na Areia",
+  "category": "Alimentação",
+  "description": "Ostras frescas direto do cultivo, vendidas por dúzia e servidas na beira da baía.",
+  "services": [
+    {
+      "name": "Dúzia de ostras frescas",
+      "price": 45,
+      "description": "Retirada no local"
+    },
+    {
+      "name": "Ostras gratinadas (6 un.)",
+      "price": 38
+    },
+    {
+      "name": "Caldo de berbigão",
+      "price": 22
+    }
+  ],
+  "hours": "Qua a Dom 11h às 18h",
+  "neighborhood": "Ribeirão da Ilha",
+  "address": "Rod. Baldicero Filomeno, 1200",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Dinheiro",
+    "Cartão de débito",
+    "Cartão de crédito"
+  ],
+  "delivery": true,
+  "publicationConsent": true
+}

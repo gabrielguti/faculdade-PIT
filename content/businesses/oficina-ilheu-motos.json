@@ -1,0 +1,34 @@
+{
+  "slug": "oficina-ilheu-motos",
+  "name": "Oficina Ilhéu Motos",
+  "category": "Automotivo",
+  "description": "Revisão, troca de óleo e freios para motos de todas as marcas.",
+  "services": [
+    {
+      "name": "Troca de óleo",
+      "price": 60
+    },
+    {
+      "name": "Revisão completa",
+      "price": 220
+    },
+    {
+      "name": "Pastilha de freio",
+      "price": 90,
+      "description": "Mão de obra inclusa"
+    },
+    {
+      "name": "Orçamento"
+    }
+  ],
+  "hours": "Seg a Sex 8h às 18h, Sáb 8h às 12h",
+  "neighborhood": "Ribeirão da Ilha",
+  "address": "Rua das Gaivotas, 45",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Dinheiro",
+    "Cartão de crédito"
+  ],
+  "publicationConsent": true
+}

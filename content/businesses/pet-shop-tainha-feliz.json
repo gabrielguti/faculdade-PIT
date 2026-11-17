@@ -1,0 +1,30 @@
+{
+  "slug": "pet-shop-tainha-feliz",
+  "name": "Pet Shop Tainha Feliz",
+  "category": "Pet",
+  "description": "Banho, tosa e ração a granel com busca e entrega do seu pet.",
+  "services": [
+    {
+      "name": "Banho (porte pequeno)",
+      "price": 45
+    },
+    {
+      "name": "Banho e tosa (porte médio)",
+      "price": 80
+    },
+    {
+      "name": "Ração a granel (kg)",
+      "price": 14
+    }
+  ],
+  "hours": "Seg a Sáb 9h às 18h",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Dinheiro",
+    "Cartão de débito",
+    "Cartão de crédito"
+  ],
+  "delivery": true,
+  "publicationConsent": true
+}

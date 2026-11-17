@@ -1,0 +1,38 @@
+{
+  "slug": "padaria-pao-da-ilha",
+  "name": "Padaria Pão da Ilha",
+  "category": "Alimentação",
+  "description": "Pão fresquinho toda manhã, bolos caseiros e café coado para o bairro.",
+  "services": [
+    {
+      "name": "Pão francês (kg)",
+      "price": 18.9,
+      "description": "Assado a cada duas horas"
+    },
+    {
+      "name": "Bolo de aniversário",
+      "price": 85
+    },
+    {
+      "name": "Café com pão na chapa",
+      "price": 9.5
+    },
+    {
+      "name": "Encomendas de salgados"
+    }
+  ],
+  "hours": "Seg a Sáb 6h às 20h, Dom 6h às 13h",
+  "neighborhood": "Ribeirão da Ilha",
+  "address": "Rod. Baldicero Filomeno, 860",
+  "photo": "/examples/bakery.svg",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Dinheiro",
+    "Cartão de débito",
+    "Cartão de crédito",
+    "Vale-refeição"
+  ],
+  "delivery": true,
+  "publicationConsent": true
+}

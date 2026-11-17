@@ -1,0 +1,28 @@
+{
+  "slug": "salao-mare-alta",
+  "name": "Salão Maré Alta",
+  "category": "Beleza",
+  "description": "Corte, coloração e manicure com hora marcada pelo WhatsApp.",
+  "services": [
+    {
+      "name": "Corte de cabelo",
+      "price": 50
+    },
+    {
+      "name": "Coloração",
+      "price": 140
+    },
+    {
+      "name": "Manicure",
+      "price": 35
+    }
+  ],
+  "hours": "Ter a Sáb 9h às 19h",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Dinheiro",
+    "Cartão de débito"
+  ],
+  "publicationConsent": true
+}

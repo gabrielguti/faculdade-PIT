@@ -1,0 +1,31 @@
+{
+  "slug": "eletricista-raio-certo",
+  "name": "Eletricista Raio Certo",
+  "category": "Reparos e Manutenção",
+  "description": "Instalações, troca de disjuntor e chuveiro, atendimento rápido na região.",
+  "services": [
+    {
+      "name": "Visita técnica",
+      "price": 70
+    },
+    {
+      "name": "Troca de chuveiro elétrico",
+      "price": 90
+    },
+    {
+      "name": "Instalação de tomadas e luminárias"
+    },
+    {
+      "name": "Quadro de disjuntores"
+    }
+  ],
+  "hours": "Seg a Sáb 7h às 18h, plantão sob consulta",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Dinheiro",
+    "Transferência"
+  ],
+  "publicationConsent": true
+}

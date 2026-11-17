@@ -1,0 +1,27 @@
+{
+  "slug": "costura-linha-do-sul",
+  "name": "Costura Linha do Sul",
+  "category": "Moda",
+  "description": "Ajustes, barras e consertos de roupas, com entrega em até 3 dias.",
+  "services": [
+    {
+      "name": "Barra de calça",
+      "price": 25
+    },
+    {
+      "name": "Ajuste de cintura",
+      "price": 35
+    },
+    {
+      "name": "Troca de zíper",
+      "price": 30
+    }
+  ],
+  "hours": "Seg a Sex 9h às 17h",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Dinheiro"
+  ],
+  "publicationConsent": true
+}

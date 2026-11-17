@@ -1,0 +1,23 @@
+{
+  "slug": "fisioterapia",
+  "name": "Fisioterapia",
+  "category": "Saúde",
+  "services": [
+    {
+      "name": "sessão 1hr",
+      "price": 150,
+      "description": "trazer pedido médico"
+    }
+  ],
+  "hours": "Seg a Sex, 9h às 17h",
+  "neighborhood": "Ribeirão da Ilha",
+  "whatsapp": "5548988237539",
+  "payments": [
+    "Pix",
+    "Dinheiro",
+    "Cartão de débito",
+    "Cartão de crédito",
+    "Transferência"
+  ],
+  "publicationConsent": true
+}
